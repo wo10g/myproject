@@ -129,5 +129,3 @@ podpowiedzFrame<- data.frame(matrix(ncol = 3, nrow = 0))
 
 
 
-
-

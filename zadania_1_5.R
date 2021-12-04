@@ -118,6 +118,7 @@ liczZplikow <- function(sciezka,nazwaKolumny,jakaFunkcja,DlaIluPlikow){
   result
 }
 
+
 liczZplikow("/Users/o98487/Desktop/R_projects/smogKrakow","X169_temperature","mean",12)
 liczZplikow("/Users/o98487/Desktop/R_projects/smogKrakow","X169_temperature","median",12)
 liczZplikow("/Users/o98487/Desktop/R_projects/smogKrakow","X169_temperature","min",12)
